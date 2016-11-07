@@ -1,0 +1,3 @@
+target 'xmppDemo' do
+	pod 'JDStatusBarNotification', '~> 1.5.2'
+end
